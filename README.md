@@ -1,3 +1,4 @@
+[繁體中文](./README_zh.md) | [日本語](./README.md)
 # 夜市人生 | Nightmarket Life
 #### Unity-based Android Mobile Game Project
 ## プロジェクト概要 | Project Overview
